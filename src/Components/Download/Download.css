@@ -1,0 +1,15 @@
+.dark-btn{
+    color: #fff;
+    background:#244406;
+    
+}
+.download{
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+    border-top: 1px solid #797979;
+}
+.download h2{
+ text-align: center;
+ padding-bottom: 20px;
+}
